@@ -37,3 +37,6 @@ O gráfico gerado mostrará os países Brasil, Argentina, Peru e Colômbia no ei
 Arquivos do Projeto
 nome_do_script.py: Contém o código para gerar o gráfico e salvar a imagem.
 tendencias_imigracao.png: Imagem gerada pelo script (será salva no mesmo diretório).
+
+![image](https://github.com/user-attachments/assets/c32e6657-0b04-4a22-9efe-1e0838be98db)
+
